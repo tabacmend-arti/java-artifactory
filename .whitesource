@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "tabacmend-arti/whitesource-config@main",
   "hostRules": [
     {
-    "matchHost": "http://tabac.whitesourcedemo.com:8081/artifactory/demo-maven-remote",
+    "matchHost": "http://tabac.whitesourcedemo.com:8081/artifactory/demo-libs-snapshot-local",
     "hostType": "maven",
     "username": "mavenman",
     "encrypted": {
