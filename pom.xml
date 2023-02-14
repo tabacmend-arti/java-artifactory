@@ -54,10 +54,10 @@
 	
 	<dependencies>
 		<dependency>
-        	<groupId>mend</groupId>
-        	<artifactId>vulnpackage</artifactId>
-        	<version>1.0-SNAPSHOT</version>
-    	</dependency>
+		    <groupId>mend</groupId>
+		    <artifactId>vulnpackage</artifactId>
+		    <version>1.0-20221229.173117-1</version>
+		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
