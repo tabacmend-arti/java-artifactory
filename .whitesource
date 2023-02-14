@@ -1,3 +1,13 @@
 {
-  "settingsInheritedFrom": "tabacmend-arti/whitesource-config@main"
+  "settingsInheritedFrom": "tabacmend-arti/whitesource-config@main",
+  "hostRules": [
+    {
+    "matchHost": "http://tabac.whitesourcedemo.com:8081/artifactory/demo-maven-remote",
+    "hostType": "maven",
+    "username": "mavenman",
+    "encrypted": {
+      "password": "wcBMA8xOaBJvzJNbAQf9EaTbuTdLW1FOrUYOyvwPRojxpnujBwAUjFbdAV3cqKFA5pAZK7WLdvZpMWK94B+ROSAw4Eh7w6j3vYivScszuatM2ZqsmtcOB8hIAc9qkiGKRzeckr6KlqkP+oAtrFA7QD3CFkAtsurFB8WPNYnJH6yUBUwwc/kCVkswKrFqFZ8qmYgtPo7YgH+ERu38ODN4SUZLrrV81abvowtKKPoxUDpMcZMiIvWerCA8S89JjJRS/L8LpxJ61E4KA2vowxA6pHLz8UpWk9kUIADzdshVmONX/yypyBaLkwIZL8Kj1HwniUhl9s1YEOL1kSL9OGBIQSR9TLD45takI6hlyhOskdJyAfyBDQUIBPA4uLoSIKGV/t68S8JIdYNAwmCIwkSieHxc/g4NxqvhKCP+Mnl5O8Uke2nxo8P2FhV5qzsGf7O6JNsEXMLFJCnncG2yEg82xFaDbZKWFHdlActd7CYKedqR6sfcsIy2UC1V2Hd92BKjPwF8"
+      }
+    }
+  ]
 }
